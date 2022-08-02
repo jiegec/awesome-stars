@@ -3498,6 +3498,7 @@
 
 ## Nix 
 
+- [kolloch/crate2nix](https://github.com/kolloch/crate2nix) - nix build file generator for rust crates
 - [ipetkov/crane](https://github.com/ipetkov/crane) - A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
 - [cargo2nix/cargo2nix](https://github.com/cargo2nix/cargo2nix) - Granular caching, development shell, Nix & Rust integration
 - [oxalica/nocargo](https://github.com/oxalica/nocargo) - [alpha] Build Rust crates with Nix Build System.
@@ -4935,6 +4936,7 @@
 
 ## Rust 
 
+- [google/cargo-raze](https://github.com/google/cargo-raze) - Generate Bazel BUILD from Cargo dependencies!
 - [stratis-storage/stratisd](https://github.com/stratis-storage/stratisd) - Easy to use local storage management for Linux.
 - [oxalica/nil](https://github.com/oxalica/nil) - Language Server for Nix Expression Language
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification
