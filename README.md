@@ -205,6 +205,7 @@
 
 ## C 
 
+- [libressl-portable/portable](https://github.com/libressl-portable/portable) - LibreSSL Portable itself. This includes the build scaffold and compatibility layer that builds portable LibreSSL from the OpenBSD source code. Pull requests or patches sent to tech@openbsd.org are wel
 - [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. GitHub won't let us disable pull requests. ☞ THEY WILL BE IGNORED HERE ☜ Please upload them at GitLab.
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer designed for reading research papers and technical books.
 - [mackron/miniaudio](https://github.com/mackron/miniaudio) - Single file audio playback and capture library written in C.
@@ -213,7 +214,7 @@
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
 - [PCRE2Project/pcre2](https://github.com/PCRE2Project/pcre2) - PCRE2 development is now based here.
 - [rwmjones/miniexpect](https://github.com/rwmjones/miniexpect) - Small expect-like library, clone of http://git.annexia.org/?p=miniexpect.git;a=summary
-- [Robert-van-Engelen/tinylisp](https://github.com/Robert-van-Engelen/tinylisp) - Lisp in 99 lines of C and how to write one yourself. Includes 20 Lisp primitives, garbage collection and REPL.
+- [Robert-van-Engelen/tinylisp](https://github.com/Robert-van-Engelen/tinylisp) - Lisp in 99 lines of C and how to write one yourself. Includes 20 Lisp primitives, garbage collection and REPL. Includes tail-call optimized versions for speed and reduced memory use.
 - [lsof-org/lsof](https://github.com/lsof-org/lsof) - list open files
 - [dramforever/nixos-visionfive](https://github.com/dramforever/nixos-visionfive) - My VisionFive NixOS config
 - [pq-crystals/kyber](https://github.com/pq-crystals/kyber) - 
@@ -750,7 +751,7 @@
 - [Nuand/bladeRF](https://github.com/Nuand/bladeRF) - bladeRF USB 3.0 Superspeed Software Defined Radio Source Code
 - [muennich/sxiv](https://github.com/muennich/sxiv) - Simple X Image Viewer
 - [sahib/glyr](https://github.com/sahib/glyr) - Glyr is a music related metadata searchengine, both with commandline interface and C API
-- [martinmarinov/rtl_tcp_andro-](https://github.com/martinmarinov/rtl_tcp_andro-) - rtl_tcp and libusb-1.0 port for Android modified to support opening devices from Linux file descriptors
+- [signalwareltd/rtl_tcp_andro-](https://github.com/signalwareltd/rtl_tcp_andro-) - rtl_tcp and libusb-1.0 port for Android modified to support opening devices from Linux file descriptors
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [taroz/GNSS-SDRLIB](https://github.com/taroz/GNSS-SDRLIB) - An Open Source GNSS Software Defined Radio Library
@@ -834,6 +835,7 @@
 
 ## C++ 
 
+- [cpeditor/cpeditor](https://github.com/cpeditor/cpeditor) - The IDE for competitive programming :tada: | Fetch, Code, Compile, Run, Check, Submit :rocket:
 - [jaroslov/knuth-plass-thoughts](https://github.com/jaroslov/knuth-plass-thoughts) - Description and implementation of the core Knuth-Plass line-wrapping algorithm.
 - [patriciogonzalezvivo/ada](https://github.com/patriciogonzalezvivo/ada) - A general porpose OpenGL app library
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders shaders
@@ -887,7 +889,7 @@
 - [jiegec/jtag-remote-server](https://github.com/jiegec/jtag-remote-server) - Remote JTAG server for remote debugging
 - [intel/libaji_client](https://github.com/intel/libaji_client) - This is the client side library to access JTAG Server distributed with Quartus (jtagd/jtagserver.exe). The protocol is known as Advanced JTAG Interface (AJI). See src/h/aji.h for available API.
 - [e-maxx-eng/e-maxx-eng](https://github.com/e-maxx-eng/e-maxx-eng) - Translation of http://e-maxx.ru into English
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.8: ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed f
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.9: ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed f
 - [GPUOpen-LibrariesAndSDKs/Orochi](https://github.com/GPUOpen-LibrariesAndSDKs/Orochi) - 
 - [umd-memsys/DRAMsim3](https://github.com/umd-memsys/DRAMsim3) - DRAMsim3: a Cycle-accurate, Thermal-Capable DRAM Simulator
 - [magiblot/tvision](https://github.com/magiblot/tvision) - A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross-platform and with Unicode support.
@@ -903,7 +905,7 @@
 - [saurabhshri/CCAligner](https://github.com/saurabhshri/CCAligner) - 🔮 Word by word audio subtitle synchronisation tool and API. Developed under GSoC 2017 with CCExtractor.
 - [plctlab/llvm-project](https://github.com/plctlab/llvm-project) - PLCT实验室的 RISC-V V Spec 实现，基于llvm/llvm-project，rkruppe/rvv-llvm 和 https://repo.hca.bsc.es/gitlab/rferrer/llvm-epi-0.8
 - [cnr-isti-vclab/meshlab](https://github.com/cnr-isti-vclab/meshlab) - The open source mesh processing system
-- [chipsalliance/verible](https://github.com/chipsalliance/verible) - Verible is a suite of SystemVerilog developer tools, including a parser, style-linter, and formatter.
+- [chipsalliance/verible](https://github.com/chipsalliance/verible) - Verible is a suite of SystemVerilog developer tools, including a parser, style-linter, formatter and language server
 - [jiegec/machine-tester](https://github.com/jiegec/machine-tester) - A small utility to test machines.
 - [KDAB/eglinfo](https://github.com/KDAB/eglinfo) - Provides information about available EGL configurations.
 - [UCLA-VAST/AutoBridge](https://github.com/UCLA-VAST/AutoBridge) - [FPGA 2021, Best Paper Award] An automated floorplanning and pipelining tool for Vivado HLS.
@@ -1244,6 +1246,7 @@
 - [jupyter-xeus/xeus](https://github.com/jupyter-xeus/xeus) - Implementation of the Jupyter kernel protocol in C++
 - [hzwer/AML](https://github.com/hzwer/AML) - Agent Manipulation Language
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
+- [kythe/kythe](https://github.com/kythe/kythe) - Kythe is a pluggable, (mostly) language-agnostic ecosystem for building tools that work with code.
 - [root-project/cling](https://github.com/root-project/cling) - The cling C++ interpreter
 - [jupyter-xeus/xeus-cling](https://github.com/jupyter-xeus/xeus-cling) - Jupyter kernel for the C++ programming language
 - [meganz/mingw-std-threads](https://github.com/meganz/mingw-std-threads) - Standard threads implementation currently still missing on MinGW GCC on Windows
@@ -1392,7 +1395,6 @@
 
 ## CMake 
 
-- [heterosys/mlir-phy](https://github.com/heterosys/mlir-phy) - ⏩ (3/4) An MLIR dialect to express the mapping of computing nodes and message queues to a physical design.
 - [corrosion-rs/corrosion](https://github.com/corrosion-rs/corrosion) - Marrying Rust and CMake - Easy Rust and C/C++ Integration!
 - [nanoant/CMakePCHCompiler](https://github.com/nanoant/CMakePCHCompiler) - CMake precompiled header support via custom PCH compiler extension
 - [foonathan/compatibility](https://github.com/foonathan/compatibility) - unmaintained - CMake module to activate certain C++ standard, feature checks and appropriate automated workarounds - basically an improved version of cmake-compile-features
@@ -1490,7 +1492,7 @@
 - [swannodette/logic-tutorial](https://github.com/swannodette/logic-tutorial) - A Very Gentle Introduction to Relational Programming
 - [zk/clojuredocs](https://github.com/zk/clojuredocs) - clojuredocs.org web app
 - [razum2um/awesome-clojure](https://github.com/razum2um/awesome-clojure) - A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff
-- [technomancy/leiningen](https://github.com/technomancy/leiningen) - Automate Clojure projects without setting your hair on fire.
+- [technomancy/leiningen](https://github.com/technomancy/leiningen) - Moved to Codeberg; this is a convenience mirror
 - [4clojure/4clojure](https://github.com/4clojure/4clojure) - An interactive problem website for learning Clojure
 - [clojupyter/clojupyter](https://github.com/clojupyter/clojupyter) - a Jupyter kernel for Clojure
 - [LightTable/LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE ⛺
@@ -2333,7 +2335,6 @@
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [bfontaine/Advent-of-Code-2017](https://github.com/bfontaine/Advent-of-Code-2017) - My solutions to the Advent of Code 2017
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
-- [kythe/kythe](https://github.com/kythe/kythe) - Kythe is a pluggable, (mostly) language-agnostic ecosystem for building tools that work with code.
 - [tenta-browser/tenta-dns](https://github.com/tenta-browser/tenta-dns) - Recursive and authoritative DNS server in go, including DNSSEC and DNS-over-TLS
 - [jung-kurt/gofpdf](https://github.com/jung-kurt/gofpdf) - A PDF document generator with high level support for text, drawing and images
 - [rsc/2fa](https://github.com/rsc/2fa) - Two-factor authentication on the command line
@@ -3216,7 +3217,7 @@
 - [qntm/base65536](https://github.com/qntm/base65536) - Unicode's answer to Base64
 - [ElmCast/elm-oracle](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files.
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
-- [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for humans
+- [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [facebookarchive/prepack](https://github.com/facebookarchive/prepack) - A JavaScript bundle optimizer.
 - [vinta/pangu.js](https://github.com/vinta/pangu.js) - Paranoid text spacing in JavaScript
@@ -3512,6 +3513,7 @@
 
 ## Nix 
 
+- [styx-static/styx](https://github.com/styx-static/styx) - Static site generator in Nix expression language.
 - [edolstra/import-cargo](https://github.com/edolstra/import-cargo) - A function for fetching the crates listed in a Cargo lock file
 - [kolloch/crate2nix](https://github.com/kolloch/crate2nix) - nix build file generator for rust crates
 - [ipetkov/crane](https://github.com/ipetkov/crane) - A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
@@ -3652,7 +3654,7 @@
 - [hanwentao/hanyicheng.net](https://github.com/hanwentao/hanyicheng.net) - Ethan's Personal Website
 - [ch32-rs/ch32-rs](https://github.com/ch32-rs/ch32-rs) - Embedded Rust device crates for WCH's RISC-V and Cortex-M microcontrollers
 - [ben-marshall/awesome-open-hardware-verification](https://github.com/ben-marshall/awesome-open-hardware-verification) - A List of Free and Open Source Hardware Verification Tools and Frameworks
-- [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and cheap DIY IP-KVM based on Raspberry Pi
+- [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and inexpensive DIY IP-KVM based on Raspberry Pi
 - [openwch/schpcb_lib](https://github.com/openwch/schpcb_lib) - Schematic and PCB footprint library for all WCH chips
 - [meta-inf/are-FIT-ACs-on](https://github.com/meta-inf/are-FIT-ACs-on) - 
 - [usbip/implementations](https://github.com/usbip/implementations) - USB/IP Server/Client/Userspace Implementations
@@ -4092,6 +4094,7 @@
 
 ## Python 
 
+- [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats
 - [pydata/patsy](https://github.com/pydata/patsy) - Describing statistical models in Python using symbolic formulas
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [nix-community/hydra-check](https://github.com/nix-community/hydra-check) - check hydra for the build status of a package [maintainer=@makefu,@Artturin]
@@ -4953,6 +4956,9 @@
 
 ## Rust 
 
+- [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django
+- [LatticeX-Foundation/opentss](https://github.com/LatticeX-Foundation/opentss) - An ECDSA threshold signature algorithm implemented in Rust.
+- [rust-lang/polonius](https://github.com/rust-lang/polonius) - Defines the Rust borrow checker.
 - [rust-windowing/android-ndk-rs](https://github.com/rust-windowing/android-ndk-rs) - Rust bindings to the Android NDK
 - [danielhenrymantilla/lending-iterator.rs](https://github.com/danielhenrymantilla/lending-iterator.rs) - Lending iterators on stable Rust
 - [fschutt/printpdf](https://github.com/fschutt/printpdf) - An easy-to-use library for writing PDF in Rust
@@ -6160,7 +6166,8 @@
 
 ## SystemVerilog 
 
-- [RHSResearchLLC/NiteFury-and-LiteFury](https://github.com/RHSResearchLLC/NiteFury-and-LiteFury) - Public repository for uEVB
+- [spcl/pspin](https://github.com/spcl/pspin) - PsPIN: A RISC-V in-network accelerator for flexible high-performance low-power packet processing
+- [RHSResearchLLC/NiteFury-and-LiteFury](https://github.com/RHSResearchLLC/NiteFury-and-LiteFury) - Public repository for Litefury & Nitefury
 - [openhwgroup/cv32e41p](https://github.com/openhwgroup/cv32e41p) - 4 stage, in-order, secure RISC-V core based on the CV32E40P with Zfinx and Zce ISA extentions
 - [chipsalliance/Cores-SweRV-EL2](https://github.com/chipsalliance/Cores-SweRV-EL2) - SweRV EL2 Core
 - [chipsalliance/Cores-SweRV](https://github.com/chipsalliance/Cores-SweRV) - SweRV EH1 core
@@ -6282,6 +6289,8 @@
 
 ## TypeScript 
 
+- [OIerDb-ng/OIerDb](https://github.com/OIerDb-ng/OIerDb) - Next generation OIerDb.
+- [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Open Source Software Insights - Analysis, Comparison, Trends, Rankings of Open Source Software. Follow us on Twitter: https://twitter.com/ossinsight
 - [cweijan/vscode-database-client](https://github.com/cweijan/vscode-database-client) - Database Client For Visual Studio Code
 - [cloudscape-design/components](https://github.com/cloudscape-design/components) - React components for Cloudscape Design System
